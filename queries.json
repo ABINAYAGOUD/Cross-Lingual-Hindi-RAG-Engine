@@ -1,0 +1,45 @@
+[
+  {
+    "lang": "Hindi",
+    "query": "SLV-III ने किस उपग्रह को कक्षा में स्थापित किया और किस वर्ष?",
+    "expect_any": [
+      "रोहिणी"
+    ]
+  },
+  {
+    "lang": "Hindi",
+    "query": "कलाम को भारत रत्न किस वर्ष प्राप्त हुआ?",
+    "expect_any": [
+      "1997"
+    ]
+  },
+  {
+    "lang": "Hindi",
+    "query": "पोखरण-II में कलाम की भूमिका क्या थी?",
+    "expect_any": [
+      "सलाहकार",
+      "केंद्रीय भूमिका"
+    ]
+  },
+  {
+    "lang": "English",
+    "query": "Which institution did Kalam attend to study aeronautical engineering?",
+    "expect_any": [
+      "मद्रास"
+    ]
+  },
+  {
+    "lang": "English",
+    "query": "Who co-wrote the autobiography, and in what year was it published?",
+    "expect_any": [
+      "अरुण तिवारी"
+    ]
+  },
+  {
+    "lang": "English",
+    "query": "How and where did Kalam die in 2015?",
+    "expect_any": [
+      "शिलांग"
+    ]
+  }
+]

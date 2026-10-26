@@ -1,0 +1,11 @@
+pymupdf>=1.24
+chromadb>=0.5
+sentence-transformers>=3.0
+rank-bm25>=0.2.2
+numpy
+requests
+# --- optional LLM SDKs: install only the one you use ---
+anthropic>=0.40      # if using Claude (set ANTHROPIC_API_KEY)
+# openai>=1.40       # if using OpenAI (set OPENAI_API_KEY)
+# (Ollama needs no Python package; just a running local Ollama server)
+pytest
